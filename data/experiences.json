@@ -1,0 +1,42 @@
+[
+  {
+    "id": "clevertech-2026",
+    "company": "Clevertech France",
+    "role": "Stagiaire Développeuse Mobile & IA",
+    "location": "Monastir, Tunisie",
+    "startDate": "2026-07",
+    "endDate": "present",
+    "technologies": ["React Native", "Expo", "React Query", "Zod", "react-hook-form", "GPT-5-nano", "RAG", "pgvector", "n8n"],
+    "highlights": [
+      "Développement de fonctionnalités mobiles pour Archimatch : notifications, paramètres, offres d'emploi",
+      "Conception d'un module de publication assistée par IA (GPT-5-nano) pour les offres d'emploi et les projets",
+      "Recherche sur une architecture de génération de devis par IA basée sur du RAG (pgvector, n8n)"
+    ]
+  },
+  {
+    "id": "mobelite-2025",
+    "company": "Mobelite Tunisie",
+    "role": "Stagiaire Développeuse Full-Stack",
+    "location": "Monastir, Tunisie",
+    "startDate": "2025-02",
+    "endDate": "2025-05",
+    "technologies": ["Node.js", "Express", "MongoDB", "JWT"],
+    "highlights": [
+      "Développement en solo, de la conception au déploiement, de MobiDical, application web pour enfants autistes",
+      "Conception d'une API REST sécurisée par authentification JWT"
+    ]
+  },
+  {
+    "id": "codingoat-2024",
+    "company": "CodinGOAT",
+    "role": "Stagiaire Développeuse Mobile",
+    "location": "Sousse, Tunisie",
+    "startDate": "2024-07",
+    "endDate": "2024-08",
+    "technologies": ["Flutter", "Dart", "Firebase"],
+    "highlights": [
+      "Apprentissage de Flutter/Dart pour le développement mobile cross-platform",
+      "Développement d'un prototype (Streakly) avec authentification et synchronisation temps réel Firebase"
+    ]
+  }
+]

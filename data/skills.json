@@ -1,0 +1,9 @@
+{
+  "Programmation": ["Java", "Python", "JavaScript", "TypeScript", "C", "HTML", "CSS"],
+  "Intelligence artificielle": ["Agents IA", "Serveurs MCP", "RAG (Retrieval-Augmented Generation)", "API OpenAI (GPT)", "API Gemini", "Embeddings", "Bases vectorielles", "Automatisation avec n8n"],
+  "Backend": ["Node.js", "Express.js", "Spring Boot", "Django", "Conception d'API REST"],
+  "Bases de données": ["MongoDB", "MySQL", "Oracle SQL", "Firebase"],
+  "Web & Cloud": ["React.js", "Next.js", "Docker", "CI/CD", "Linux", "Git", "GitHub", "Vercel"],
+  "Mobile": ["React Native", "Flutter", "Dart", "Expo"],
+  "Méthodologie": ["Agile", "Analyse des besoins", "Automatisation des processus métier et des flux de travail"]
+}

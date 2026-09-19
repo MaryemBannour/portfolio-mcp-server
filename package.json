@@ -1,0 +1,15 @@
+{
+  "name": "portfolio-mcp-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Serveur MCP exposant le profil professionnel de Maryem Bannour (expériences, projets, compétences) comme outils interrogeables par un client MCP (Claude Desktop, Claude Code...).",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "zod": "^4.6.5"
+  }
+}

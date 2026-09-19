@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cinescope",
+    "name": "CineScope",
+    "description": "Plateforme web de découverte de films et séries avec recommandations personnalisées, catalogue de nouveautés/classiques et système de notation. Premier projet développé par Maryem.",
+    "technologies": ["React.js", "TMDB API", "Tailwind CSS"],
+    "date": "2023"
+  },
+  {
+    "id": "rag-chatbot",
+    "name": "Chatbot RAG Portfolio",
+    "description": "Chatbot intégré au portfolio répondant aux questions des visiteurs sur le parcours, les projets et les compétences de Maryem, via une architecture RAG (découpage en chunks, embeddings, recherche par similarité).",
+    "technologies": ["Next.js", "Node.js", "Express", "Google Gemini API"],
+    "date": "2026"
+  }
+]
