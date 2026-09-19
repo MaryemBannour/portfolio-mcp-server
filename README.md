@@ -3,6 +3,26 @@
 Serveur [Model Context Protocol](https://modelcontextprotocol.io) exposant mon profil professionnel (expériences, projets, compétences) comme des outils interrogeables par n'importe quel client MCP — Claude Desktop, Claude Code, ou toute autre application compatible.
 
 ## Pourquoi ce projet
+## Démo
+
+**Lecture ciblée — `get_experiences` :**
+
+*"Quelles technologies exactes Maryem a-t-elle utilisées pendant son stage chez Mobelite Tunisie ?"*
+
+![Lecture d'une expérience](screenshots/demo-1-get-experiences.png)
+
+**Recherche transversale — `search_by_skill` :**
+
+*"Où Maryem a-t-elle utilisé GPT-5-nano dans son parcours ?"*
+
+![Recherche transversale](screenshots/demo-2-search-by-skill.png)
+
+**Écriture avec autorisation — `add_project` :**
+
+*"Ajoute un nouveau projet : nom 'Portfolio MCP Server'..."*
+
+![Demande d'autorisation](screenshots/demo-3-add-project-request.png)
+![Confirmation de l'ajout](screenshots/demo-4-add-project-result.png)
 
 Ce serveur complète le [chatbot RAG](../portfolio-maryem) intégré à mon portfolio, mais répond à un besoin différent :
 
